@@ -25,7 +25,7 @@ We do **not** sell, trade, or share your personal data with third parties.
 
 ## Data Deletion
 Users can request deletion of their account and associated data by contacting us at:
-**productlab100@gmail.com**
+**sg2109964@gmail.com**
 
 ## Children’s Privacy
 Money Leak Tracker is not intended for children under the age of 13.
@@ -35,4 +35,4 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 
 ## Contact Us
 If you have any questions about this Privacy Policy, contact us at:
-**productlab100@gmail.com**
+**sg2109964@gmail.com**
