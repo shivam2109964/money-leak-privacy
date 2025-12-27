@@ -6,5 +6,5 @@ To delete your account and all associated data:
 3. Tap "Delete Account"
 
 OR  
-Email us at: yourmail@gmail.com  
+Email us at: sg2109964@gmail.com  
 with subject: "Delete My Account"
